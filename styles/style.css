@@ -137,6 +137,7 @@
 
 .bet-button {
   background-color: transparent;
+  cursor: pointer;
   border: 1px solid #FFF;
   width: 257px;
   height: 52px;
